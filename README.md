@@ -5,7 +5,7 @@ About me
 --------
 
 Hello! I'm a passionate Java backend developer with a deep love for programming. My journey in the world of software development has been exciting and fulfilling, as I constantly strive to enhance my skills and knowledge. My experience spans various aspects of backend development, from designing and implementing RESTful APIs to optimizing database interactions and enhancing system performance. I take pride in writing clean, maintainable code and following best practices to create efficient and reliable applications. 
-I have expertise in a wide range of technologies, including Java, Hibernate, Spring, SQL (MySQL, PostgreSQL), HTML, CSS, Apache Kafka, Docker. 
+<br>I have expertise in a wide range of technologies, including Java, Hibernate, Spring, SQL (MySQL, PostgreSQL), HTML, CSS, Apache Kafka, Docker. 
 Feel free to connect with me, check out my projects, or reach out for collaboration
 
 * 🌍  I'm based in Poland
