@@ -10,7 +10,6 @@ Hello! I'm a passionate Java backend developer with a deep love for programming.
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [solianik123456@gmail.com](mailto:solianik123456@gmail.com)
-* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on open source projects and community-driven initiatives
 
 ### Skills
